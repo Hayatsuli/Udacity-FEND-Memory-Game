@@ -1,7 +1,8 @@
 Read me
-Memory Game Logic: The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
+# Memory Game Logic:
+The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
 
-Table of content:
+# Table of content:
 1- Congratulation Model
 2- Restart button
 3- Star Rating
